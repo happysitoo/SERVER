@@ -1,0 +1,65 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:stick": 4,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:birch_planks": 52,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 5566,
+      "minecraft:walk_one_cm": 8080,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 20,
+      "minecraft:damage_dealt": 170,
+      "minecraft:play_time": 5566,
+      "minecraft:jump": 68,
+      "minecraft:time_since_death": 5566,
+      "minecraft:drop": 3,
+      "minecraft:sprint_one_cm": 7656,
+      "minecraft:fall_one_cm": 2675,
+      "minecraft:total_world_time": 5566,
+      "minecraft:fly_one_cm": 7443,
+      "minecraft:crouch_one_cm": 11530,
+      "minecraft:sneak_time": 2839
+    },
+    "minecraft:picked_up": {
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:birch_sapling": 2,
+      "minecraft:stick": 2,
+      "minecraft:cobblestone": 38,
+      "minecraft:white_wool": 2,
+      "minecraft:birch_log": 13,
+      "minecraft:mutton": 3,
+      "minecraft:crafting_table": 2,
+      "minecraft:andesite": 1,
+      "minecraft:raw_iron": 27
+    },
+    "minecraft:killed": {
+      "minecraft:sheep": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:birch_sapling": 2,
+      "minecraft:wooden_pickaxe": 1
+    },
+    "minecraft:mined": {
+      "minecraft:crafting_table": 2,
+      "minecraft:birch_log": 13,
+      "minecraft:birch_leaves": 1,
+      "minecraft:andesite": 2,
+      "minecraft:iron_ore": 28,
+      "minecraft:stone": 40
+    },
+    "minecraft:used": {
+      "minecraft:wooden_axe": 8,
+      "minecraft:crafting_table": 2,
+      "minecraft:wooden_pickaxe": 11,
+      "minecraft:andesite": 1,
+      "minecraft:stone_pickaxe": 59
+    }
+  },
+  "DataVersion": 4671
+}
